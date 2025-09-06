@@ -1,0 +1,19 @@
+1. Color Splash on Click
+   When we click anywhere, background color changes randomly.
+
+2. Dancing Text
+   Make text (like “CIT Rocks!”) bounce, rotate, or change color automatically.
+   Can sync with keypress (pressing A makes it red, B makes it blue).
+
+3. Emoji Rain 🌧️😂
+   Make emojis (🎉 😂 🚀 ❤️) fall from the top of the screen like rain.
+
+4. Magic Mirror (Camera Filters)
+   Face gets colorful overlay.
+   Mirror reflection with filters.
+
+5. Interactive Game (Mini)
+    Example:
+    A ball follows your mouse pointer.
+    Pressing spacebar makes it jump.
+    Simple but feels like a real game.
