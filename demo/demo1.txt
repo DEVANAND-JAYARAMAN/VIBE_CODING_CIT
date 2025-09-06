@@ -2,7 +2,7 @@
    When we click anywhere, background color changes randomly.
 
 2. Dancing Text
-   Make text (like “CIT Rocks!”) bounce, rotate, or change color automatically.
+   Make text (like “CIT students are Rockers!”) bounce, rotate, or change color automatically.
    Can sync with keypress (pressing A makes it red, B makes it blue).
 
 3. Emoji Rain 🌧️😂
