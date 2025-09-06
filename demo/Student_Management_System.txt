@@ -103,7 +103,17 @@ Include some animations for the interaction
 
 
 
-Step 3: Start the Project
+step 3: Generate the architecture diagram (mermaid) for your Student Management System with V0 (Vibe Coding):
+
+
+prompt: 
+
+I want to visualize the working of the Student Management System. 
+Create an architecture diagram using mermaid
+
+
+
+Step 4: Start the Project
 
 After generating or setting up the project files, run these commands in the terminal to install dependencies and start the server:
 
