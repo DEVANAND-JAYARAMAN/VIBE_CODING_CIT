@@ -1,0 +1,24 @@
+1. Fireworks Animation 🎆
+  On mouse click, colorful fireworks explode at that spot.
+  Sparks spread out, fade, and disappear.
+  Can add sound effects for extra fun.
+
+2. Typing Ghost Effect 👻
+  Text appears letter by letter like someone is typing it.
+  Each keypress can trigger spooky glowing letters.
+  Can make it loop like a typewriter animation.
+
+3. Gravity Balls 🟢🔵🔴
+  Spawn balls when you click.
+  Balls bounce off walls and collide with each other.
+  Can add gravity toggle (press G to turn gravity on/off).
+
+4. Digital Pet 🐧 (Mini Tamagotchi)
+  A cute pet sits on the screen.
+  You can feed it (click food), make it jump, or pet it.
+  Mood changes (happy, sad, sleepy) based on interaction.
+
+5. Spin the Wheel 🎡
+  A colorful wheel with sections (like prizes, tasks, or challenges).
+  Students click a button → wheel spins → random result chosen.
+  Can use it for games, quizzes, or fun punishments (e.g., "sing a song").
